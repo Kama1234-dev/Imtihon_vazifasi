@@ -1,0 +1,32 @@
+export const animeList = [
+  {
+    id: '1',
+    title: 'Demon Slayer: Kimetsu no Yaiba',
+    year: '2019',
+    genre: 'Action, Fantasy',
+    description: 'Tanjirou embarks on a dangerous journey to save his sister from demons and redeem their family.',
+    rating: '9.0',
+    image: 'https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
+    videoEmbed: 'https://youtu.be/x7uLutVRBfI',
+  },
+  {
+    id: '2',
+    title: 'Jujutsu Kaisen',
+    year: '2020',
+    genre: 'Action, Supernatural',
+    description: 'Yuji Itadori enters the world of curses and joins Tokyo Jujutsu High to fight evil spirits.',
+    rating: '8.5',
+    image: 'https://substackcdn.com/image/fetch/$s_!sMpT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a2495e8-f347-4345-ae52-dd2eae55f117_2000x3000.jpeg',
+    videoEmbed: 'https://youtu.be/RYI-WG_HFV8',
+  },
+  {
+    id: '3',
+    title: "JoJo's Bizarre Adventure",
+    year: '2012',
+    genre: 'Action, Adventure',
+    description: 'The Joestar family battles supernatural enemies across generations with bizarre abilities known as Stands.',
+    rating: '8.2',
+    image: 'https://cdn.europosters.eu/image/1300/69129.jpg',
+    videoEmbed: 'https://youtu.be/tgo2HPpHlhs',
+  },
+]
